@@ -1,0 +1,10 @@
+username,firstName,lastName,email,credentials,realmRoles,groups
+user1,User 1,User 1,user1@example.com,password1,supervisor;agent,agents_permission
+user2,User 2,User 2,user2@example.com,password2,supervisor;agent,agents_permission;senior_agents_permission
+user3,User 3,User 3,user3@example.com,password3,agent,agents_permission;senior_agents_permission
+user4,User 4,User 4,user4@example.com,password4,supervisor,senior_agents_permission
+user5,User 5,User 5,user5@example.com,password5,supervisor;agent,senior_agents_permission
+user6,User 6,User 6,user6@example.com,password6,agent,agents_permission;senior_agents_permission
+user7,User 7,User 7,user7@example.com,password7,supervisor;agent,agents_permission;senior_agents_permission
+user8,User 8,User 8,user8@example.com,password8,supervisor;agent,agents_permission;senior_agents_permission
+user9,User 9,User 9,user9@example.com,password9,supervisor;agent,agents_permission;senior_agents_permission
